@@ -1,0 +1,19 @@
+{
+  "name": "youterm",
+  "version": "0.0.1",
+  "description": "A CLI tool that opens a YouTube music video",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "youterm": "./index.js"
+  },
+  "preferGlobal": true,
+  "author": "Fernando Gómez",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "googleapis": "^12.0.0",
+    "inquirer": "^1.1.2",
+    "opn": "^4.0.2"
+  }
+}

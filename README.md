@@ -39,3 +39,15 @@ git clone https://github.com/ferkaz/youterm.git
 cd youterm
 npm install -g
 ```
+
+You need a Google API key for the YouTube queries. You can get it for free following the next guide
+
+https://developers.google.com/api-client-library/javascript/start/start-js#get-access-keys-for-your-application
+
+After that, insert your key in `lib/secrets.json`. You can use the example file:
+
+```
+mv lib/secrets.json.example lib/secrets.json
+```
+
+

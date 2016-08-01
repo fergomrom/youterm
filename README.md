@@ -1,6 +1,6 @@
 # YouTerm
 
-Are you developing in your terminal and suddenly feel in the mood for some music? With YouTerm you can listen any song really fast just typing a the track's name. This will open a tab on your system default browser with the YouTube video playing the song.
+Are you developing in your terminal and suddenly feel in the mood for some music? With YouTerm you can listen any song really fast just typing the track's name. This will open a tab on your system default browser with the YouTube video playing the song.
 
 ### Usage
 
